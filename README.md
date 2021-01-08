@@ -1,4 +1,4 @@
-![me](https://github.com/Sanyocheck/Sanyocheck/blob/main/wave.gif) Hi there
+<img src="https://github.com/Sanyocheck/Sanyocheck/blob/main/wave.gif" width="25px"> Hi there! 
 
 <!--
 **Sanyocheck/Sanyocheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
